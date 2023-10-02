@@ -1,5 +1,5 @@
 # FILMS
-Filament Inline Measurement System for 3D Printers
+Filament In-Line Measurement System for 3D Printers
 
 ## Goals
 - Make a stand-alone solution which measures the cross-sectional area of filament as it is fed into your existing 3D printer
