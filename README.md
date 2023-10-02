@@ -14,6 +14,7 @@ Filament In-Line Measurement System for 3D Printers
     - Maybe just multiple of the cheapest cameras I can source instead.
 - Running the filament between latex sheets with a capacitive coating and sensor on the outside of the latex.
 - piezo air pump and pressure sensor
+- a series of ring magnets with hal effect ICs
 
 
 ## How to help
